@@ -37,7 +37,12 @@
 /* FlexSlider Necessary Styles
 *********************************/
 .flexslider {margin: 0; padding: 0;}
-.flexslider .slides > li {display: none; -webkit-backface-visibility: hidden;}
+.flexslider .slides > li {
+	display: none;
+	-webkit-backface-visibility: hidden; /* Vendor-prefixed version */
+	backface-visibility: hidden; /* Standard version */
+}
+
 .flexslider .slides img {width: 100%; display: block;}
 .flex-pauseplay span {text-transform: capitalize;}
 
