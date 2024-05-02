@@ -26,8 +26,9 @@ h4 {font-family: 'Open Sans Condensed', sans-serif;
 
 p {line-height: 1.4285714285714286em; /* 20/14 */}
 
-a {font-family: 'Open Sans Condensed', sans-serif;
-	color: #ffffff}
+a[href^="mailto:"] {
+    color: blue;
+}
 
 li {list-style-type: none;}
 
