@@ -26,7 +26,8 @@ h4 {font-family: 'Open Sans Condensed', sans-serif;
 
 p {line-height: 1.4285714285714286em; /* 20/14 */}
 
-a {color: #919642}
+a {font-family: 'Open Sans Condensed', sans-serif;
+	color: #b9c2be}
 
 li {list-style-type: none;}
 
