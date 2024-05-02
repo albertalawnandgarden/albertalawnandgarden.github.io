@@ -164,7 +164,7 @@ ul.gallery {
 .gallery li {
 	width: 14.285714285714286em; /* 200/14 */
 	height: 9.5em; /* 133/14 */
-	background-color: #fff;
+	background-color: #000000;
 	margin: 1.4285714285714286em 0; /* 20/14 */
 	padding: 0.2857142857142857em; /* 4/14 */
 	border: 0.07142857142857142em solid #919642; /* 1/14 */
