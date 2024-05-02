@@ -167,7 +167,7 @@ ul.gallery {
 	background-color: #000000;
 	margin: 1.4285714285714286em 0; /* 20/14 */
 	padding: 0.2857142857142857em; /* 4/14 */
-	border: 0.07142857142857142em solid #919642; /* 1/14 */
+	border: 0.07142857142857142em solid #000000; /* 1/14 */
 	float: left;
 }
 
