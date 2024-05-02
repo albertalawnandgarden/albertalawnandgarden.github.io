@@ -27,7 +27,7 @@ h4 {font-family: 'Open Sans Condensed', sans-serif;
 p {line-height: 1.4285714285714286em; /* 20/14 */}
 
 a[href^="mailto:"] {
-	color:  #919642; /* Set the color to inherit from its parent */
+	color:  #c518ae; /* Set the color to inherit from its parent */
 	text-decoration: none; /* Remove underline */
   }
   
