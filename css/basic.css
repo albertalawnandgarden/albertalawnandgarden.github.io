@@ -4,7 +4,7 @@
 
 body, html {font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
-	color: #595458;
+	color: #8b838a;
 	background-color: #919642;}
 
 h1 {font-family: 'Open Sans Condensed', sans-serif;
@@ -18,7 +18,7 @@ h2 {font-family: 'Open Sans Condensed', sans-serif;
 
 h3 {font-family: 'Gentium Basic', serif;
 	font-size: 1.1428571428571428em; /* 16/14 */
-	color: #595458;}
+	color: #8b838a;
 
 h4 {font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 1.4285714285714286em; /* 20/14 */
@@ -109,7 +109,7 @@ ul.nav-menu li a:hover {
 	width: 100%;
 	height: auto;
 	padding: 1.7857142857142858em 0; /* 25/14 */
-	background: url('../images/MainBack.png');
+	background: url('../bkgd/MainBack.png');
 	background-size: cover;
 }
 
