@@ -26,15 +26,12 @@ h4 {font-family: 'Open Sans Condensed', sans-serif;
 
 p {line-height: 1.4285714285714286em; /* 20/14 */}
 
-a[href^="mailto:"] {
-	color:  #c518ae; /* Set the color to inherit from its parent */
-	text-decoration: none; /* Remove underline */
-  }
-  
-  a[href^="mailto:"]:hover {
-	color:  #81b37c; /* Set the hover color to inherit from its parent */
-  }
-  
+a {text-decoration: none;}
+
+/* Define styles for the email link */
+a.email-link {
+    color: #b3b49a !important; /* Change the color*/
+}
 
 li {list-style-type: none;}
 
@@ -44,8 +41,6 @@ li {list-style-type: none;}
 
 .right {float: right;}
 
-
-  
 
 /****************** narrow viewpoint ******************/
 
