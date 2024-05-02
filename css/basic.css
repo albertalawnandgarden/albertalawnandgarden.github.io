@@ -143,7 +143,7 @@ ul.nav-menu li a:hover {
 .services-image {
 	width: 16.071428571428573em; /* 225/14 */
 	height: 12.785714285714286em; /* 179/14 */
-	margin-bottom: 2.142857142857143em; /* 30/14 */
+	margin-bottom: 1.5em; /* 30/20 */
 	background-color: #000000;
 	padding: 0.7142857142857143em; /* 10/14 */
 	-moz-box-shadow: 0 0 0.35714285714285715em #888; /* 5/14 */
