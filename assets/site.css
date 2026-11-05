@@ -571,6 +571,10 @@ h1 {
   font-weight: 700;
 }
 
+.service-copy > .button-row {
+  margin-top: 24px;
+}
+
 .service-photo {
   width: 100%;
   aspect-ratio: 4 / 3;
